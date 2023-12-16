@@ -3,13 +3,13 @@ import org.junit.Test;
 import static org.junit.Assert.assertArrayEquals;
 
 /**
- * 测试目的：验证Solution19类中gameOfLife方法的正确性
- * 测试用例设计原则：基于等价类划分原则，选取不同的初始状态，包括不同大小的板以及不同活细胞和死细胞的分布情况。
+ * 测试目的：验证Solution19类中gameOfLife方法的正确性jijji
+ * 测试用例设计原则：基于等价类划分原则，选取不同的初始状态，包括不同大小的板以及不同活细胞和死细胞的分布情况。hihihi
  */
 public class L2023140020_19_Test {
 
     /**
-     * 测试方法目的：验证正常大小板的生命游戏逻辑
+     * 测试方法目的：验证正常大小板的生命游戏逻辑guuh
      * 测试用例：标准大小的板，含有活细胞和死细胞
      */
     @Test
@@ -23,7 +23,7 @@ public class L2023140020_19_Test {
 
     /**
      * 测试方法目的：验证小尺寸板的生命游戏逻辑
-     * 测试用例：小尺寸板，只包含活细胞
+     * 测试用例：小尺寸板，只包含活细胞jijijiji
      */
     @Test
     public void testGameOfLifeSmallBoard() {
