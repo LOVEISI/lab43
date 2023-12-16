@@ -9,7 +9,7 @@ import static org.junit.Assert.assertArrayEquals;
 public class L2023140020_19_Test {
 
     /**
-     * 测试方法目的：验证正常大小板的生命游戏逻辑
+     * 测试方法目的：验证正常大小板的生命游戏逻辑guuh
      * 测试用例：标准大小的板，含有活细胞和死细胞
      */
     @Test
